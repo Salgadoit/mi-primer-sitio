@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(148, 219, 245);
+    color: rgb(12, 52, 73);
+    font-family: Arial, Hervetica, sans-serif;
+}
+.chihiro{
+    width: 200px;
+    border-radius: 50px;
+}
+haku{
+    width: 100px;
+
+}
